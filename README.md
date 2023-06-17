@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reallia
-- 👀 I’m interested in Java, C#, HTML, SQL, Java, JavaScript.
+- 👀 I’m interested in Java, C#, HTML, CSS, JavaScript, SQL, Java.
 - 🌱 I’m currently learning C#
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
